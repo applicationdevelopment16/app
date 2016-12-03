@@ -1,0 +1,5 @@
+package appDevt.appDevt.controller;
+
+public class HomeController {
+
+}
